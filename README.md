@@ -26,6 +26,17 @@
 
 ---
 
+## Explore my portfolios
+
+I make complex information easier to find, understand, and use. My experience spans SEO content, B2B communications, and enterprise product documentation.
+
+| Portfolio | Explore |
+| --- | --- |
+| [Technical Writing](https://github.com/D-R-Mano/Technical-Writing-Portfolio) | DITA, API documentation, infrastructure guides, release workflows, and docs-as-code |
+| [SEO, Content Strategy & Knowledge Design](https://github.com/D-R-Mano/SEO-Content-Portfolio) | Historical content case studies and an independent project connecting search intent, helpful content, and AI answer quality |
+
+---
+
 ## 👋 About Me
 
 ```yaml
@@ -351,3 +362,4 @@ Bharath University
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
+
